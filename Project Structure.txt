@@ -1,0 +1,14 @@
+Student_Placement_Prediction/
+│
+├── app.py
+├── style.py
+├── data_loader.py
+├── chart.py
+├── train_model.py
+├── requirements.txt
+│
+├── data/
+│   └── student_placement.csv
+│
+└── models/
+    └── placement_model.pkl

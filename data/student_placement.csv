@@ -1,0 +1,501 @@
+﻿Student ID,CGPA,IQ,Internships,Projects,Communication Skills,Technical Skills,Aptitude Score,Attendance (%),Backlogs,Degree,Branch,Placement Status
+STU0001,7.57,121,1,2,Good,Beginner,68,63.6,1,B.Sc,Electronics,Not Placed
+STU0002,6.16,116,1,2,Average,Advanced,56,84.6,0,B.Com,Mechanical,Not Placed
+STU0003,8.04,96,1,1,Good,Advanced,59,76.1,1,B.Tech,Electronics,Not Placed
+STU0004,8.24,87,1,4,Excellent,Beginner,51,72.9,0,B.Com,Data Science,Placed
+STU0005,5.2,70,0,3,Poor,Intermediate,62,81.4,0,B.Tech,Information Technology,Not Placed
+STU0006,5.88,98,0,4,Good,Advanced,93,88.2,0,BCA,Computer Science,Not Placed
+STU0007,7.38,134,2,0,Average,Advanced,46,67.5,0,MCA,Computer Science,Placed
+STU0008,6.92,110,2,4,Average,Intermediate,47,77.5,0,B.Com,Electronics,Placed
+STU0009,7.23,98,2,1,Good,Intermediate,45,97.1,1,B.Com,Electronics,Not Placed
+STU0010,6.35,111,0,2,Excellent,Intermediate,91,71.2,2,B.Tech,Electronics,Not Placed
+STU0011,8.17,86,1,2,Average,Beginner,58,90.7,1,B.Com,Mechanical,Not Placed
+STU0012,8.07,101,0,4,Good,Advanced,65,77.2,1,B.Sc,Computer Science,Placed
+STU0013,7.32,106,2,1,Average,Beginner,59,87.5,0,BCA,Mechanical,Placed
+STU0014,8.43,104,2,1,Good,Beginner,51,93.0,0,B.Tech,Mechanical,Not Placed
+STU0015,7.74,114,0,2,Good,Advanced,61,89.4,1,B.Tech,Information Technology,Not Placed
+STU0016,6.35,109,2,2,Good,Advanced,100,91.1,0,B.Sc,Information Technology,Placed
+STU0017,7.64,113,0,1,Good,Advanced,86,70.5,0,B.Tech,Computer Science,Placed
+STU0018,6.24,97,0,1,Average,Intermediate,52,93.1,0,BCA,Information Technology,Placed
+STU0019,8.17,116,0,1,Good,Intermediate,75,73.5,2,B.Com,Commerce,Not Placed
+STU0020,7.2,125,0,2,Good,Intermediate,53,84.6,1,MCA,Data Science,Not Placed
+STU0021,7.06,93,2,2,Good,Intermediate,38,84.6,0,B.Tech,Electronics,Placed
+STU0022,6.54,94,3,2,Poor,Intermediate,80,86.9,1,MCA,Information Technology,Placed
+STU0023,8.53,121,0,4,Average,Intermediate,82,85.4,0,B.Tech,Mechanical,Placed
+STU0024,7.09,103,1,1,Average,Intermediate,81,73.6,0,B.Sc,Mechanical,Not Placed
+STU0025,6.8,122,2,5,Poor,Advanced,58,68.5,0,B.Com,Information Technology,Placed
+STU0026,6.88,100,3,4,Average,Advanced,62,90.7,0,B.Tech,Commerce,Not Placed
+STU0027,7.81,122,1,1,Average,Beginner,76,83.9,1,B.Tech,Computer Science,Not Placed
+STU0028,7.63,107,0,1,Good,Intermediate,71,93.5,0,B.Tech,Computer Science,Placed
+STU0029,7.68,108,1,1,Average,Beginner,59,81.6,1,B.Sc,Computer Science,Not Placed
+STU0030,7.7,124,1,1,Good,Intermediate,41,67.9,0,B.Com,Computer Science,Not Placed
+STU0031,9.5,101,3,2,Good,Intermediate,67,91.7,1,B.Tech,Data Science,Placed
+STU0032,6.82,94,1,0,Good,Beginner,81,78.3,1,B.Tech,Information Technology,Not Placed
+STU0033,6.71,100,2,0,Good,Advanced,47,85.4,1,B.Sc,Computer Science,Placed
+STU0034,6.4,110,0,2,Good,Intermediate,75,75.5,1,B.Tech,Information Technology,Not Placed
+STU0035,7.9,86,1,4,Good,Advanced,70,98.4,3,BCA,Information Technology,Not Placed
+STU0036,8.44,113,2,1,Excellent,Beginner,76,73.2,0,MCA,Information Technology,Placed
+STU0037,7.13,99,1,5,Good,Beginner,78,78.6,1,BCA,Computer Science,Placed
+STU0038,6.37,119,1,2,Good,Intermediate,55,83.1,1,B.Com,Mechanical,Not Placed
+STU0039,6.38,76,3,5,Good,Beginner,41,71.1,0,B.Sc,Computer Science,Placed
+STU0040,7.93,96,2,1,Good,Intermediate,57,85.3,0,B.Com,Commerce,Not Placed
+STU0041,8.03,85,1,3,Poor,Advanced,78,98.1,0,B.Tech,Computer Science,Not Placed
+STU0042,7.82,95,1,4,Good,Intermediate,57,77.1,0,B.Tech,Mechanical,Placed
+STU0043,6.55,108,1,0,Good,Beginner,55,86.0,0,BCA,Commerce,Not Placed
+STU0044,7.49,103,1,5,Excellent,Intermediate,38,54.5,0,B.Tech,Computer Science,Placed
+STU0045,7.37,102,1,2,Good,Intermediate,91,81.6,1,B.Com,Computer Science,Placed
+STU0046,7.48,103,0,2,Average,Intermediate,77,78.9,0,BCA,Data Science,Placed
+STU0047,8.17,107,3,3,Excellent,Intermediate,77,73.8,2,MCA,Information Technology,Placed
+STU0048,7.48,93,3,3,Average,Advanced,80,92.8,0,B.Tech,Mechanical,Placed
+STU0049,7.96,113,2,0,Average,Beginner,74,78.7,1,B.Sc,Computer Science,Not Placed
+STU0050,7.32,113,3,5,Average,Intermediate,61,80.2,0,BCA,Computer Science,Not Placed
+STU0051,7.55,110,2,3,Poor,Intermediate,63,78.2,0,B.Tech,Electronics,Placed
+STU0052,7.91,112,2,5,Poor,Advanced,59,62.8,0,B.Sc,Data Science,Placed
+STU0053,5.72,109,2,2,Average,Intermediate,100,70.7,1,BCA,Computer Science,Not Placed
+STU0054,6.91,129,1,3,Good,Intermediate,73,91.6,0,MCA,Commerce,Not Placed
+STU0055,6.76,104,1,2,Good,Beginner,58,60.9,3,BCA,Mechanical,Not Placed
+STU0056,6.58,101,0,5,Poor,Beginner,72,74.3,0,B.Tech,Computer Science,Placed
+STU0057,6.96,96,1,4,Good,Beginner,50,78.0,1,B.Sc,Information Technology,Not Placed
+STU0058,8.82,93,0,5,Average,Advanced,88,99.4,0,B.Sc,Computer Science,Not Placed
+STU0059,6.34,90,0,3,Excellent,Intermediate,55,89.7,1,B.Tech,Information Technology,Not Placed
+STU0060,8.27,94,1,4,Average,Advanced,73,76.4,0,B.Sc,Mechanical,Placed
+STU0061,5.48,104,1,2,Good,Beginner,81,95.0,0,B.Tech,Information Technology,Not Placed
+STU0062,6.9,109,0,2,Average,Advanced,71,74.6,0,B.Tech,Computer Science,Placed
+STU0063,7.42,106,2,4,Good,Advanced,66,92.1,0,B.Sc,Mechanical,Placed
+STU0064,7.87,96,2,0,Average,Beginner,65,68.4,0,B.Tech,Electronics,Not Placed
+STU0065,8.0,116,0,4,Good,Beginner,64,92.7,3,B.Sc,Electronics,Not Placed
+STU0066,8.08,114,0,0,Average,Beginner,56,77.9,0,B.Tech,Electronics,Not Placed
+STU0067,6.88,103,1,3,Excellent,Advanced,58,71.7,0,BCA,Computer Science,Placed
+STU0068,6.76,97,2,2,Good,Intermediate,87,79.8,3,B.Tech,Mechanical,Not Placed
+STU0069,8.15,112,2,2,Good,Intermediate,63,84.8,0,B.Com,Information Technology,Placed
+STU0070,7.05,107,0,2,Good,Intermediate,53,77.1,0,B.Tech,Information Technology,Placed
+STU0071,5.91,88,2,2,Excellent,Advanced,57,87.5,1,B.Sc,Computer Science,Not Placed
+STU0072,6.06,104,0,2,Average,Intermediate,82,76.2,2,B.Tech,Electronics,Not Placed
+STU0073,6.28,108,1,2,Average,Intermediate,75,88.2,1,B.Tech,Electronics,Not Placed
+STU0074,7.77,94,3,3,Average,Advanced,73,86.4,0,B.Sc,Information Technology,Placed
+STU0075,7.4,107,0,4,Average,Beginner,61,81.4,3,B.Com,Commerce,Not Placed
+STU0076,7.98,88,0,3,Good,Advanced,74,77.6,0,MCA,Commerce,Placed
+STU0077,6.8,121,1,3,Excellent,Beginner,55,83.5,3,B.Tech,Computer Science,Not Placed
+STU0078,7.42,120,1,5,Excellent,Intermediate,61,87.5,2,B.Tech,Mechanical,Not Placed
+STU0079,7.91,102,3,5,Good,Advanced,80,100.0,2,BCA,Information Technology,Placed
+STU0080,6.93,109,3,0,Good,Intermediate,78,91.4,0,B.Sc,Data Science,Not Placed
+STU0081,7.73,76,0,4,Excellent,Intermediate,50,91.8,0,B.Tech,Computer Science,Not Placed
+STU0082,6.55,91,0,1,Excellent,Intermediate,52,100.0,1,BCA,Information Technology,Not Placed
+STU0083,6.87,101,2,1,Average,Intermediate,67,87.2,0,B.Sc,Information Technology,Placed
+STU0084,6.85,92,0,4,Good,Intermediate,91,86.8,0,BCA,Computer Science,Not Placed
+STU0085,5.99,114,2,0,Good,Intermediate,36,89.0,2,B.Tech,Mechanical,Not Placed
+STU0086,7.76,129,2,5,Average,Intermediate,69,71.9,1,B.Sc,Electronics,Placed
+STU0087,6.76,91,0,4,Average,Intermediate,44,77.6,0,B.Tech,Computer Science,Not Placed
+STU0088,7.26,95,2,5,Excellent,Intermediate,55,76.9,0,BCA,Electronics,Placed
+STU0089,7.75,108,0,4,Excellent,Intermediate,60,88.5,0,B.Tech,Data Science,Not Placed
+STU0090,7.72,124,1,5,Excellent,Intermediate,59,80.3,0,BCA,Commerce,Placed
+STU0091,7.95,90,1,0,Good,Beginner,57,83.4,0,B.Com,Electronics,Not Placed
+STU0092,7.15,108,1,5,Average,Advanced,65,92.9,2,BCA,Information Technology,Not Placed
+STU0093,6.81,127,2,0,Average,Intermediate,57,90.6,1,B.Tech,Computer Science,Not Placed
+STU0094,7.17,85,2,1,Good,Beginner,43,80.4,0,B.Tech,Data Science,Not Placed
+STU0095,5.48,90,3,0,Good,Intermediate,77,75.3,0,B.Sc,Mechanical,Not Placed
+STU0096,5.73,100,3,2,Good,Advanced,76,93.4,1,B.Sc,Electronics,Placed
+STU0097,5.86,99,1,4,Good,Intermediate,78,89.7,2,MCA,Data Science,Not Placed
+STU0098,6.2,115,0,1,Average,Beginner,42,65.9,2,B.Tech,Computer Science,Not Placed
+STU0099,7.67,108,2,4,Good,Beginner,69,78.9,0,B.Com,Mechanical,Placed
+STU0100,6.3,84,3,3,Average,Beginner,75,83.7,2,B.Tech,Computer Science,Placed
+STU0101,6.85,111,1,3,Average,Advanced,50,89.8,0,B.Tech,Computer Science,Not Placed
+STU0102,8.61,98,1,5,Average,Advanced,65,91.1,0,B.Tech,Information Technology,Not Placed
+STU0103,6.88,120,1,2,Average,Beginner,63,84.8,2,BCA,Information Technology,Not Placed
+STU0104,8.02,97,0,2,Excellent,Advanced,93,87.9,0,B.Tech,Data Science,Placed
+STU0105,6.27,97,2,5,Average,Beginner,94,82.6,0,B.Tech,Information Technology,Not Placed
+STU0106,7.03,111,1,3,Average,Intermediate,40,75.3,0,BCA,Commerce,Not Placed
+STU0107,6.25,114,2,3,Good,Advanced,100,79.4,0,B.Sc,Mechanical,Placed
+STU0108,6.89,110,2,1,Good,Intermediate,51,82.2,0,B.Tech,Mechanical,Placed
+STU0109,8.13,85,2,1,Poor,Beginner,80,81.7,1,B.Tech,Data Science,Not Placed
+STU0110,5.44,111,1,1,Average,Intermediate,80,63.1,0,B.Sc,Information Technology,Not Placed
+STU0111,7.71,93,1,1,Average,Advanced,50,78.0,0,B.Tech,Information Technology,Not Placed
+STU0112,7.5,108,2,1,Good,Intermediate,72,82.6,2,B.Tech,Computer Science,Not Placed
+STU0113,6.63,88,2,4,Average,Beginner,63,79.2,0,BCA,Computer Science,Placed
+STU0114,5.73,110,1,0,Poor,Beginner,73,79.5,2,B.Tech,Data Science,Not Placed
+STU0115,7.33,95,2,3,Poor,Intermediate,68,86.9,0,B.Sc,Information Technology,Placed
+STU0116,6.69,90,0,5,Good,Intermediate,83,71.2,1,B.Tech,Information Technology,Not Placed
+STU0117,7.49,114,2,4,Poor,Advanced,66,65.7,0,B.Tech,Computer Science,Not Placed
+STU0118,7.27,108,0,2,Good,Advanced,62,78.5,2,B.Tech,Electronics,Not Placed
+STU0119,8.93,98,0,0,Average,Advanced,81,89.6,0,B.Tech,Mechanical,Placed
+STU0120,7.0,122,1,5,Good,Advanced,74,98.9,2,B.Tech,Information Technology,Not Placed
+STU0121,6.18,100,0,0,Average,Intermediate,76,89.8,0,B.Tech,Mechanical,Not Placed
+STU0122,7.44,105,0,4,Average,Intermediate,55,67.3,1,MCA,Mechanical,Not Placed
+STU0123,7.48,108,0,4,Poor,Intermediate,49,79.7,0,B.Com,Commerce,Not Placed
+STU0124,8.68,98,1,1,Good,Intermediate,56,84.6,0,B.Tech,Computer Science,Not Placed
+STU0125,8.13,111,2,4,Excellent,Advanced,56,83.8,0,B.Sc,Mechanical,Placed
+STU0126,7.62,99,0,1,Poor,Intermediate,77,87.4,0,B.Sc,Computer Science,Not Placed
+STU0127,8.79,100,2,1,Average,Advanced,80,72.8,0,B.Com,Information Technology,Not Placed
+STU0128,6.0,121,2,4,Excellent,Intermediate,63,82.6,1,B.Tech,Mechanical,Not Placed
+STU0129,6.58,93,0,5,Good,Intermediate,86,86.2,0,B.Tech,Mechanical,Placed
+STU0130,6.28,76,0,1,Average,Intermediate,86,90.3,0,B.Tech,Computer Science,Not Placed
+STU0131,6.84,124,2,5,Average,Beginner,69,73.9,0,B.Tech,Commerce,Placed
+STU0132,5.8,136,2,5,Good,Intermediate,53,78.5,0,B.Tech,Computer Science,Not Placed
+STU0133,7.92,100,1,4,Good,Intermediate,89,55.0,0,B.Com,Electronics,Not Placed
+STU0134,7.02,82,2,0,Good,Beginner,64,75.8,1,MCA,Data Science,Not Placed
+STU0135,5.71,101,0,1,Excellent,Advanced,67,76.8,0,B.Tech,Electronics,Placed
+STU0136,6.18,102,1,4,Good,Beginner,60,71.8,2,B.Sc,Commerce,Not Placed
+STU0137,7.58,103,2,5,Average,Beginner,52,83.7,0,B.Tech,Electronics,Placed
+STU0138,8.13,92,0,4,Good,Advanced,43,81.4,0,B.Sc,Commerce,Not Placed
+STU0139,9.35,112,2,2,Average,Beginner,74,59.4,2,B.Sc,Mechanical,Not Placed
+STU0140,10.0,111,1,1,Average,Advanced,53,84.2,0,B.Tech,Mechanical,Placed
+STU0141,7.69,87,2,5,Poor,Advanced,100,72.7,0,B.Com,Computer Science,Placed
+STU0142,6.21,113,1,1,Average,Beginner,49,86.9,3,MCA,Mechanical,Not Placed
+STU0143,5.01,130,1,2,Good,Intermediate,46,69.2,3,BCA,Computer Science,Not Placed
+STU0144,7.53,107,0,5,Poor,Intermediate,73,82.3,1,BCA,Data Science,Not Placed
+STU0145,6.4,101,0,3,Average,Advanced,88,79.2,0,B.Sc,Computer Science,Placed
+STU0146,6.81,103,2,1,Good,Advanced,66,85.0,1,B.Tech,Computer Science,Not Placed
+STU0147,6.61,112,0,0,Good,Advanced,74,83.2,3,B.Tech,Commerce,Not Placed
+STU0148,7.1,84,0,2,Good,Intermediate,37,79.4,3,B.Sc,Computer Science,Not Placed
+STU0149,8.37,107,0,5,Good,Intermediate,55,66.6,0,B.Tech,Information Technology,Not Placed
+STU0150,7.41,100,0,2,Good,Intermediate,49,67.2,0,B.Com,Mechanical,Not Placed
+STU0151,7.08,127,2,4,Poor,Advanced,37,76.2,0,B.Sc,Computer Science,Not Placed
+STU0152,6.16,103,1,1,Good,Intermediate,67,81.9,0,B.Tech,Computer Science,Not Placed
+STU0153,5.49,125,3,4,Good,Intermediate,31,75.9,1,B.Tech,Electronics,Not Placed
+STU0154,6.74,92,0,4,Average,Intermediate,45,88.3,0,MCA,Computer Science,Not Placed
+STU0155,7.19,112,2,3,Poor,Advanced,57,79.2,0,B.Tech,Computer Science,Placed
+STU0156,9.11,109,1,4,Average,Advanced,53,72.3,0,B.Tech,Computer Science,Not Placed
+STU0157,7.39,95,1,3,Average,Beginner,71,79.2,0,B.Tech,Information Technology,Placed
+STU0158,8.28,107,2,2,Average,Intermediate,70,84.3,0,BCA,Information Technology,Placed
+STU0159,6.73,120,3,4,Average,Intermediate,78,85.2,0,MCA,Computer Science,Placed
+STU0160,6.01,101,2,5,Good,Intermediate,76,100.0,0,B.Tech,Mechanical,Placed
+STU0161,6.24,85,0,5,Excellent,Intermediate,82,75.3,3,MCA,Mechanical,Not Placed
+STU0162,6.49,105,0,1,Average,Beginner,65,81.3,0,B.Tech,Computer Science,Not Placed
+STU0163,9.48,94,2,4,Excellent,Intermediate,70,86.3,0,BCA,Information Technology,Not Placed
+STU0164,6.39,101,0,0,Poor,Intermediate,73,81.8,0,B.Tech,Data Science,Not Placed
+STU0165,8.13,104,2,3,Excellent,Intermediate,67,77.0,0,B.Sc,Electronics,Placed
+STU0166,6.3,85,1,3,Excellent,Intermediate,59,66.5,0,BCA,Information Technology,Not Placed
+STU0167,8.23,86,1,2,Poor,Advanced,60,76.9,0,B.Sc,Information Technology,Not Placed
+STU0168,7.65,111,2,5,Good,Intermediate,53,71.3,0,B.Tech,Computer Science,Placed
+STU0169,7.09,99,2,5,Excellent,Advanced,71,64.7,0,B.Com,Commerce,Placed
+STU0170,7.21,74,0,0,Excellent,Intermediate,64,74.0,1,MCA,Data Science,Placed
+STU0171,6.56,114,0,1,Excellent,Intermediate,55,71.5,0,B.Sc,Data Science,Not Placed
+STU0172,7.72,108,1,1,Good,Intermediate,55,87.8,0,BCA,Computer Science,Not Placed
+STU0173,6.77,96,1,5,Poor,Beginner,47,88.0,1,B.Com,Information Technology,Not Placed
+STU0174,5.96,89,0,3,Good,Intermediate,80,73.0,0,B.Tech,Computer Science,Not Placed
+STU0175,5.91,115,1,4,Good,Intermediate,66,79.4,0,B.Com,Information Technology,Placed
+STU0176,7.43,109,2,4,Good,Advanced,52,63.4,0,B.Tech,Information Technology,Not Placed
+STU0177,8.91,134,2,4,Average,Intermediate,77,77.1,0,BCA,Mechanical,Not Placed
+STU0178,7.42,110,1,0,Good,Beginner,57,86.0,0,B.Tech,Computer Science,Not Placed
+STU0179,7.13,110,1,0,Average,Intermediate,44,90.2,3,B.Tech,Data Science,Not Placed
+STU0180,7.55,103,0,2,Good,Intermediate,80,74.9,3,B.Sc,Computer Science,Not Placed
+STU0181,8.62,115,1,2,Poor,Advanced,57,92.5,3,B.Sc,Computer Science,Not Placed
+STU0182,7.48,113,1,4,Good,Advanced,59,66.8,0,B.Com,Commerce,Not Placed
+STU0183,6.82,120,1,0,Good,Intermediate,66,69.5,0,MCA,Mechanical,Not Placed
+STU0184,8.41,99,2,2,Good,Intermediate,82,89.1,0,B.Tech,Information Technology,Placed
+STU0185,7.7,100,0,1,Good,Intermediate,65,98.7,0,B.Tech,Electronics,Placed
+STU0186,8.86,99,0,1,Average,Intermediate,47,86.9,0,B.Tech,Computer Science,Not Placed
+STU0187,7.44,114,0,1,Excellent,Advanced,73,81.6,0,B.Sc,Computer Science,Not Placed
+STU0188,5.96,123,2,1,Good,Advanced,58,60.0,0,B.Sc,Information Technology,Not Placed
+STU0189,5.81,99,1,3,Average,Intermediate,93,61.8,0,B.Com,Information Technology,Not Placed
+STU0190,8.98,100,0,2,Average,Intermediate,65,83.3,0,BCA,Electronics,Not Placed
+STU0191,9.06,109,2,2,Average,Beginner,31,78.4,1,B.Tech,Computer Science,Not Placed
+STU0192,7.06,102,1,2,Average,Beginner,70,70.9,0,B.Sc,Mechanical,Not Placed
+STU0193,6.85,116,1,4,Excellent,Beginner,94,82.7,2,BCA,Commerce,Not Placed
+STU0194,8.78,78,3,5,Good,Intermediate,89,83.2,0,B.Sc,Computer Science,Placed
+STU0195,6.09,95,0,3,Average,Advanced,92,91.4,0,B.Tech,Computer Science,Placed
+STU0196,6.31,96,0,3,Excellent,Intermediate,50,83.4,0,B.Tech,Information Technology,Not Placed
+STU0197,7.93,77,1,4,Average,Intermediate,79,94.3,0,B.Tech,Commerce,Not Placed
+STU0198,6.84,93,0,4,Excellent,Beginner,54,82.1,0,B.Tech,Mechanical,Not Placed
+STU0199,7.24,94,2,0,Average,Intermediate,68,80.8,0,BCA,Mechanical,Placed
+STU0200,7.08,103,0,5,Good,Advanced,46,92.6,1,B.Tech,Information Technology,Not Placed
+STU0201,7.6,118,0,0,Excellent,Intermediate,55,72.2,0,B.Sc,Computer Science,Not Placed
+STU0202,8.73,102,0,2,Average,Advanced,55,100.0,0,B.Sc,Electronics,Not Placed
+STU0203,7.35,93,1,3,Good,Advanced,78,85.8,2,B.Com,Computer Science,Not Placed
+STU0204,7.93,104,0,2,Excellent,Beginner,77,85.8,0,B.Tech,Mechanical,Not Placed
+STU0205,5.1,118,0,1,Average,Intermediate,69,87.3,1,B.Tech,Computer Science,Not Placed
+STU0206,7.2,93,2,5,Poor,Advanced,45,100.0,0,B.Tech,Information Technology,Not Placed
+STU0207,6.36,94,1,0,Good,Intermediate,60,89.9,0,B.Sc,Electronics,Not Placed
+STU0208,5.97,112,1,1,Average,Beginner,54,65.9,0,B.Tech,Electronics,Not Placed
+STU0209,6.33,102,0,5,Poor,Advanced,78,96.0,0,BCA,Electronics,Not Placed
+STU0210,6.9,113,1,4,Good,Advanced,83,78.6,1,B.Tech,Information Technology,Not Placed
+STU0211,8.21,105,0,0,Good,Intermediate,81,83.1,0,B.Tech,Data Science,Not Placed
+STU0212,5.86,113,1,4,Average,Intermediate,54,69.2,0,B.Tech,Commerce,Not Placed
+STU0213,7.28,93,0,5,Average,Intermediate,24,87.3,0,BCA,Data Science,Not Placed
+STU0214,6.74,105,2,0,Good,Advanced,38,75.5,2,B.Com,Mechanical,Not Placed
+STU0215,6.91,102,3,2,Good,Intermediate,86,83.0,1,BCA,Mechanical,Placed
+STU0216,8.3,90,0,2,Good,Beginner,59,79.2,3,B.Sc,Electronics,Not Placed
+STU0217,7.82,86,0,0,Average,Intermediate,54,100.0,1,BCA,Information Technology,Not Placed
+STU0218,8.65,113,0,1,Excellent,Advanced,90,100.0,1,BCA,Information Technology,Placed
+STU0219,7.09,101,1,1,Good,Advanced,84,82.5,0,B.Tech,Electronics,Placed
+STU0220,6.52,93,0,1,Poor,Intermediate,65,82.6,2,B.Sc,Computer Science,Not Placed
+STU0221,7.01,104,2,2,Excellent,Beginner,61,78.3,0,BCA,Computer Science,Not Placed
+STU0222,7.5,119,2,2,Good,Advanced,63,93.1,0,B.Tech,Commerce,Not Placed
+STU0223,7.44,78,2,1,Average,Advanced,68,78.7,1,BCA,Computer Science,Not Placed
+STU0224,6.11,87,1,1,Average,Intermediate,89,77.8,0,B.Sc,Electronics,Not Placed
+STU0225,7.35,94,3,1,Good,Intermediate,71,91.8,0,B.Sc,Electronics,Not Placed
+STU0226,7.49,123,0,4,Poor,Intermediate,76,76.6,0,B.Tech,Computer Science,Placed
+STU0227,9.89,108,1,1,Average,Intermediate,83,81.6,0,BCA,Data Science,Placed
+STU0228,9.22,114,1,5,Average,Beginner,47,66.2,2,B.Com,Computer Science,Not Placed
+STU0229,6.35,91,3,3,Average,Beginner,76,89.0,0,B.Tech,Data Science,Not Placed
+STU0230,6.95,92,1,4,Average,Intermediate,61,100.0,2,B.Tech,Commerce,Not Placed
+STU0231,5.71,110,2,3,Good,Advanced,27,89.2,0,B.Tech,Computer Science,Placed
+STU0232,6.63,106,0,1,Average,Beginner,33,96.6,1,B.Tech,Computer Science,Not Placed
+STU0233,7.58,112,3,3,Poor,Intermediate,50,73.5,0,MCA,Information Technology,Not Placed
+STU0234,8.52,103,1,1,Good,Intermediate,73,84.4,2,B.Sc,Information Technology,Not Placed
+STU0235,6.48,108,1,0,Average,Intermediate,67,72.6,0,B.Tech,Computer Science,Not Placed
+STU0236,6.56,107,3,1,Good,Beginner,68,79.7,0,B.Tech,Data Science,Not Placed
+STU0237,5.0,114,1,1,Poor,Intermediate,94,89.7,0,MCA,Computer Science,Placed
+STU0238,7.08,115,1,0,Poor,Intermediate,46,83.0,0,B.Tech,Commerce,Not Placed
+STU0239,6.13,86,1,0,Average,Intermediate,65,67.9,0,BCA,Computer Science,Not Placed
+STU0240,6.69,78,0,5,Average,Advanced,70,68.8,1,B.Tech,Data Science,Not Placed
+STU0241,6.33,117,1,3,Average,Beginner,54,68.2,3,B.Tech,Computer Science,Not Placed
+STU0242,7.15,119,0,2,Good,Advanced,65,86.9,1,BCA,Information Technology,Not Placed
+STU0243,5.4,93,0,5,Average,Advanced,41,100.0,0,B.Tech,Electronics,Not Placed
+STU0244,5.71,83,2,1,Good,Advanced,86,95.6,0,BCA,Computer Science,Not Placed
+STU0245,9.49,106,1,2,Good,Intermediate,55,63.0,2,B.Tech,Commerce,Not Placed
+STU0246,5.9,116,1,5,Poor,Intermediate,95,96.2,2,BCA,Computer Science,Placed
+STU0247,6.1,127,1,3,Good,Intermediate,65,91.4,0,BCA,Electronics,Not Placed
+STU0248,9.18,111,1,2,Average,Intermediate,80,66.5,3,BCA,Electronics,Not Placed
+STU0249,10.0,101,1,1,Average,Beginner,64,79.0,0,B.Tech,Electronics,Placed
+STU0250,6.02,94,3,0,Poor,Advanced,65,93.0,2,BCA,Computer Science,Not Placed
+STU0251,6.86,105,3,0,Good,Intermediate,56,87.5,3,MCA,Computer Science,Placed
+STU0252,7.61,101,1,0,Excellent,Advanced,67,68.9,1,B.Tech,Computer Science,Not Placed
+STU0253,9.07,93,1,4,Poor,Intermediate,70,88.1,0,B.Tech,Information Technology,Placed
+STU0254,6.21,130,1,3,Good,Beginner,53,60.6,1,B.Com,Computer Science,Not Placed
+STU0255,6.99,126,1,2,Good,Intermediate,63,79.8,0,B.Tech,Data Science,Placed
+STU0256,8.07,119,1,4,Average,Intermediate,56,93.4,1,BCA,Electronics,Not Placed
+STU0257,7.71,94,2,0,Good,Intermediate,99,82.2,0,BCA,Mechanical,Not Placed
+STU0258,6.86,115,1,1,Good,Intermediate,64,77.0,1,B.Tech,Information Technology,Not Placed
+STU0259,7.11,113,1,2,Excellent,Intermediate,88,90.9,2,B.Sc,Computer Science,Not Placed
+STU0260,5.81,110,1,5,Excellent,Intermediate,62,91.7,0,B.Sc,Electronics,Placed
+STU0261,7.0,120,1,3,Poor,Intermediate,69,95.1,0,B.Tech,Information Technology,Not Placed
+STU0262,6.97,113,0,5,Average,Advanced,45,90.7,1,B.Com,Information Technology,Not Placed
+STU0263,7.49,114,0,1,Good,Beginner,58,92.8,0,B.Tech,Information Technology,Not Placed
+STU0264,6.67,113,2,5,Average,Intermediate,68,89.3,0,B.Tech,Electronics,Not Placed
+STU0265,7.75,109,1,0,Average,Intermediate,89,84.7,0,B.Com,Data Science,Not Placed
+STU0266,8.31,84,0,1,Excellent,Intermediate,68,82.9,0,B.Tech,Computer Science,Not Placed
+STU0267,7.41,106,1,3,Poor,Intermediate,86,79.6,1,B.Com,Electronics,Placed
+STU0268,7.62,98,2,0,Average,Intermediate,75,69.9,1,B.Tech,Computer Science,Not Placed
+STU0269,7.31,90,0,5,Good,Advanced,89,72.4,0,B.Sc,Information Technology,Not Placed
+STU0270,7.25,125,2,5,Average,Intermediate,64,79.2,0,B.Tech,Mechanical,Not Placed
+STU0271,6.49,126,3,3,Good,Intermediate,100,84.4,0,BCA,Computer Science,Placed
+STU0272,7.58,121,1,1,Excellent,Beginner,58,96.4,0,B.Com,Electronics,Not Placed
+STU0273,7.15,108,2,0,Good,Intermediate,54,81.6,1,B.Com,Information Technology,Not Placed
+STU0274,9.45,121,0,3,Average,Intermediate,47,92.0,0,MCA,Computer Science,Not Placed
+STU0275,8.9,105,3,3,Poor,Beginner,100,92.8,0,BCA,Data Science,Placed
+STU0276,7.66,107,1,4,Excellent,Intermediate,77,79.7,2,BCA,Information Technology,Placed
+STU0277,6.45,92,3,3,Average,Intermediate,60,87.9,0,B.Sc,Commerce,Placed
+STU0278,6.08,110,1,0,Good,Advanced,84,79.6,1,MCA,Information Technology,Not Placed
+STU0279,8.5,106,0,0,Poor,Intermediate,75,95.2,0,BCA,Data Science,Not Placed
+STU0280,7.53,89,0,4,Average,Intermediate,94,88.4,0,B.Com,Information Technology,Placed
+STU0281,7.75,104,2,0,Excellent,Intermediate,42,70.1,0,B.Tech,Information Technology,Not Placed
+STU0282,5.42,104,1,5,Good,Beginner,61,83.6,1,B.Sc,Mechanical,Not Placed
+STU0283,8.22,127,0,0,Excellent,Beginner,58,98.5,2,BCA,Information Technology,Not Placed
+STU0284,7.73,116,2,4,Average,Intermediate,35,80.2,0,B.Tech,Information Technology,Placed
+STU0285,6.08,105,2,5,Good,Advanced,81,86.5,0,B.Tech,Data Science,Placed
+STU0286,6.75,108,1,2,Excellent,Beginner,61,87.5,0,MCA,Electronics,Not Placed
+STU0287,7.53,106,1,0,Average,Intermediate,76,71.6,1,B.Sc,Mechanical,Placed
+STU0288,7.31,103,0,5,Average,Advanced,100,87.1,1,B.Tech,Mechanical,Not Placed
+STU0289,6.94,92,2,1,Excellent,Advanced,60,68.1,1,B.Tech,Commerce,Not Placed
+STU0290,7.14,103,1,3,Average,Intermediate,59,75.7,2,B.Tech,Data Science,Not Placed
+STU0291,6.99,96,2,5,Good,Intermediate,67,92.8,0,BCA,Electronics,Placed
+STU0292,7.41,90,1,4,Excellent,Intermediate,80,85.6,1,MCA,Information Technology,Not Placed
+STU0293,8.8,111,1,0,Average,Advanced,56,79.0,1,MCA,Computer Science,Placed
+STU0294,4.56,110,0,4,Average,Beginner,56,86.5,0,BCA,Electronics,Not Placed
+STU0295,7.0,84,0,0,Poor,Advanced,81,81.4,2,BCA,Commerce,Not Placed
+STU0296,7.44,104,2,4,Average,Beginner,71,82.1,0,B.Tech,Information Technology,Not Placed
+STU0297,7.56,117,1,3,Average,Advanced,34,88.6,1,B.Com,Computer Science,Not Placed
+STU0298,6.86,118,1,1,Good,Beginner,47,74.7,1,B.Tech,Information Technology,Not Placed
+STU0299,5.41,117,3,2,Average,Beginner,88,82.4,2,B.Tech,Electronics,Not Placed
+STU0300,7.59,105,3,0,Good,Beginner,71,78.9,0,MCA,Commerce,Placed
+STU0301,9.06,95,2,5,Average,Intermediate,54,66.1,0,B.Com,Computer Science,Placed
+STU0302,5.64,92,0,1,Average,Intermediate,62,72.8,2,B.Tech,Electronics,Not Placed
+STU0303,8.16,109,1,1,Average,Beginner,65,97.7,1,BCA,Mechanical,Not Placed
+STU0304,6.91,110,2,3,Good,Intermediate,76,85.8,0,B.Sc,Data Science,Not Placed
+STU0305,7.19,120,1,4,Average,Intermediate,45,68.8,1,B.Tech,Computer Science,Not Placed
+STU0306,6.14,118,0,3,Average,Advanced,52,66.6,0,B.Tech,Data Science,Not Placed
+STU0307,6.9,103,2,3,Excellent,Advanced,69,80.9,1,B.Tech,Electronics,Placed
+STU0308,8.62,90,1,3,Good,Intermediate,64,97.6,2,B.Sc,Commerce,Placed
+STU0309,7.86,101,1,5,Average,Beginner,74,80.1,0,B.Sc,Computer Science,Placed
+STU0310,9.07,108,3,2,Excellent,Intermediate,47,95.1,0,B.Sc,Electronics,Placed
+STU0311,8.49,103,1,4,Average,Advanced,70,85.5,3,B.Tech,Mechanical,Not Placed
+STU0312,7.71,98,1,4,Poor,Beginner,81,86.7,1,MCA,Information Technology,Not Placed
+STU0313,9.08,108,1,5,Good,Intermediate,72,68.6,2,BCA,Information Technology,Placed
+STU0314,7.71,99,1,5,Average,Advanced,67,91.4,0,B.Com,Electronics,Not Placed
+STU0315,8.12,97,0,4,Average,Advanced,64,78.7,3,B.Tech,Electronics,Not Placed
+STU0316,6.94,109,2,1,Good,Intermediate,52,90.6,0,BCA,Computer Science,Placed
+STU0317,7.32,100,2,4,Average,Intermediate,64,73.9,0,B.Com,Information Technology,Not Placed
+STU0318,6.52,108,0,4,Good,Intermediate,84,83.8,0,B.Tech,Computer Science,Placed
+STU0319,8.29,108,1,1,Excellent,Advanced,63,85.5,1,B.Tech,Data Science,Placed
+STU0320,6.01,91,2,4,Good,Beginner,52,80.5,2,B.Tech,Data Science,Not Placed
+STU0321,8.07,99,0,1,Good,Beginner,58,86.0,1,B.Tech,Information Technology,Not Placed
+STU0322,7.05,122,1,3,Good,Intermediate,68,79.3,1,B.Sc,Computer Science,Not Placed
+STU0323,8.48,91,1,4,Excellent,Intermediate,59,75.5,0,B.Tech,Computer Science,Placed
+STU0324,8.04,80,2,1,Average,Intermediate,72,98.1,0,B.Tech,Information Technology,Not Placed
+STU0325,9.16,83,0,2,Average,Intermediate,73,92.5,0,BCA,Data Science,Not Placed
+STU0326,8.02,105,2,4,Good,Advanced,78,74.4,0,B.Tech,Electronics,Placed
+STU0327,5.6,105,1,2,Good,Advanced,86,87.7,0,B.Tech,Computer Science,Not Placed
+STU0328,7.18,104,1,5,Average,Intermediate,80,74.6,2,BCA,Computer Science,Not Placed
+STU0329,6.02,120,0,0,Good,Advanced,51,70.2,1,B.Tech,Computer Science,Not Placed
+STU0330,6.71,73,1,4,Poor,Intermediate,51,92.3,1,B.Tech,Commerce,Not Placed
+STU0331,8.84,110,1,4,Excellent,Intermediate,64,65.0,0,B.Tech,Mechanical,Placed
+STU0332,7.92,124,0,5,Average,Beginner,58,91.3,0,B.Tech,Electronics,Placed
+STU0333,6.52,91,0,0,Poor,Advanced,48,79.5,0,B.Sc,Information Technology,Not Placed
+STU0334,6.19,100,0,5,Poor,Advanced,58,79.9,0,B.Tech,Data Science,Not Placed
+STU0335,7.28,96,1,2,Average,Advanced,58,86.1,0,B.Tech,Information Technology,Placed
+STU0336,5.97,94,0,2,Average,Advanced,55,87.8,0,MCA,Commerce,Not Placed
+STU0337,6.55,101,3,2,Poor,Advanced,60,73.7,0,MCA,Data Science,Not Placed
+STU0338,7.58,122,1,3,Average,Intermediate,83,89.2,1,B.Tech,Electronics,Not Placed
+STU0339,8.46,127,2,3,Average,Advanced,68,83.1,0,B.Tech,Data Science,Placed
+STU0340,7.89,101,3,2,Average,Intermediate,100,69.4,0,B.Sc,Computer Science,Placed
+STU0341,4.84,128,0,0,Average,Intermediate,68,80.3,0,B.Com,Mechanical,Not Placed
+STU0342,7.57,105,2,5,Average,Intermediate,61,95.8,0,B.Com,Computer Science,Placed
+STU0343,7.33,126,2,1,Average,Intermediate,65,98.8,0,B.Tech,Information Technology,Not Placed
+STU0344,7.68,104,1,0,Poor,Intermediate,69,89.2,0,B.Tech,Computer Science,Not Placed
+STU0345,8.95,107,1,3,Poor,Intermediate,72,70.1,1,B.Tech,Computer Science,Not Placed
+STU0346,5.08,109,1,2,Average,Beginner,96,86.9,0,B.Com,Computer Science,Not Placed
+STU0347,6.63,143,0,3,Good,Intermediate,52,90.5,2,B.Com,Information Technology,Placed
+STU0348,7.87,115,1,5,Excellent,Advanced,78,89.3,0,B.Tech,Electronics,Placed
+STU0349,5.59,97,3,0,Excellent,Intermediate,68,89.8,0,B.Sc,Information Technology,Not Placed
+STU0350,8.8,117,3,1,Good,Intermediate,41,85.6,0,B.Tech,Information Technology,Not Placed
+STU0351,7.64,101,0,3,Good,Intermediate,77,81.3,0,BCA,Data Science,Not Placed
+STU0352,8.14,99,2,4,Average,Intermediate,84,75.9,0,MCA,Data Science,Placed
+STU0353,6.65,116,1,3,Good,Intermediate,52,63.0,2,B.Sc,Computer Science,Not Placed
+STU0354,8.1,105,3,2,Good,Advanced,65,85.4,0,B.Tech,Information Technology,Placed
+STU0355,8.37,108,0,3,Good,Beginner,39,83.9,1,B.Sc,Mechanical,Not Placed
+STU0356,7.49,105,3,5,Excellent,Advanced,46,87.6,0,B.Tech,Mechanical,Placed
+STU0357,7.5,109,2,2,Average,Advanced,81,68.6,0,B.Com,Information Technology,Placed
+STU0358,7.53,110,0,5,Good,Intermediate,58,88.5,0,B.Tech,Mechanical,Placed
+STU0359,6.34,82,0,4,Good,Advanced,48,100.0,0,B.Com,Computer Science,Not Placed
+STU0360,7.1,113,2,1,Average,Intermediate,68,82.8,0,B.Tech,Information Technology,Placed
+STU0361,7.09,93,0,1,Excellent,Advanced,57,81.4,3,B.Tech,Mechanical,Not Placed
+STU0362,7.65,88,1,4,Poor,Advanced,58,85.1,1,B.Tech,Mechanical,Placed
+STU0363,8.3,104,3,1,Excellent,Advanced,76,100.0,3,B.Tech,Commerce,Placed
+STU0364,6.14,106,1,2,Good,Intermediate,48,71.8,0,B.Tech,Computer Science,Not Placed
+STU0365,7.12,97,1,1,Poor,Advanced,51,84.0,1,BCA,Computer Science,Not Placed
+STU0366,8.81,115,1,3,Good,Advanced,67,74.0,1,B.Tech,Computer Science,Not Placed
+STU0367,6.47,89,0,1,Poor,Intermediate,80,76.5,1,B.Tech,Computer Science,Not Placed
+STU0368,6.39,100,3,3,Good,Advanced,84,81.5,3,B.Tech,Computer Science,Not Placed
+STU0369,7.46,98,1,5,Good,Advanced,55,95.5,1,B.Tech,Electronics,Placed
+STU0370,8.14,104,0,4,Good,Intermediate,79,100.0,2,B.Com,Electronics,Not Placed
+STU0371,7.26,108,0,5,Excellent,Advanced,53,86.5,1,MCA,Mechanical,Placed
+STU0372,8.65,93,3,0,Poor,Intermediate,92,78.2,0,B.Tech,Information Technology,Placed
+STU0373,8.15,114,0,2,Average,Intermediate,48,100.0,1,BCA,Computer Science,Not Placed
+STU0374,8.13,106,2,1,Average,Beginner,85,77.7,0,BCA,Mechanical,Placed
+STU0375,7.83,82,2,5,Poor,Intermediate,55,76.3,2,MCA,Computer Science,Not Placed
+STU0376,9.69,81,2,4,Average,Advanced,95,64.3,2,B.Tech,Data Science,Placed
+STU0377,7.03,105,3,1,Average,Intermediate,74,96.0,0,B.Tech,Computer Science,Placed
+STU0378,5.15,102,2,3,Average,Intermediate,50,91.7,0,B.Sc,Electronics,Not Placed
+STU0379,8.93,104,3,3,Average,Intermediate,57,100.0,0,B.Com,Data Science,Placed
+STU0380,6.77,105,0,2,Excellent,Intermediate,77,68.1,0,BCA,Electronics,Placed
+STU0381,7.36,108,2,2,Average,Advanced,81,96.6,0,B.Sc,Electronics,Placed
+STU0382,8.63,116,1,0,Excellent,Advanced,64,82.7,1,B.Tech,Mechanical,Not Placed
+STU0383,5.57,92,1,2,Average,Beginner,66,90.1,1,BCA,Computer Science,Not Placed
+STU0384,5.94,91,2,2,Average,Intermediate,76,65.5,2,B.Com,Mechanical,Not Placed
+STU0385,5.57,92,3,4,Good,Intermediate,67,96.7,0,B.Tech,Data Science,Not Placed
+STU0386,6.42,108,2,5,Average,Intermediate,46,89.9,0,BCA,Data Science,Placed
+STU0387,7.71,120,1,4,Average,Intermediate,53,81.6,0,B.Tech,Information Technology,Placed
+STU0388,7.8,100,1,0,Good,Intermediate,69,88.5,2,B.Sc,Information Technology,Placed
+STU0389,7.54,75,1,5,Average,Intermediate,83,74.3,0,B.Sc,Mechanical,Placed
+STU0390,5.77,85,1,2,Average,Intermediate,89,76.2,0,BCA,Electronics,Not Placed
+STU0391,4.82,95,1,2,Good,Intermediate,77,77.4,0,MCA,Computer Science,Placed
+STU0392,7.31,98,0,5,Average,Intermediate,69,63.5,2,B.Sc,Computer Science,Not Placed
+STU0393,6.75,100,0,5,Good,Advanced,76,90.6,0,B.Tech,Computer Science,Placed
+STU0394,7.73,105,2,0,Average,Advanced,55,93.9,1,B.Tech,Information Technology,Placed
+STU0395,7.99,101,1,2,Excellent,Intermediate,63,75.0,1,B.Tech,Computer Science,Not Placed
+STU0396,7.4,118,3,4,Good,Advanced,53,85.5,1,B.Tech,Computer Science,Placed
+STU0397,8.05,97,1,3,Excellent,Advanced,46,79.3,0,B.Tech,Computer Science,Not Placed
+STU0398,7.49,95,0,1,Good,Beginner,70,85.3,0,B.Sc,Data Science,Placed
+STU0399,7.81,111,0,3,Average,Intermediate,68,75.7,0,B.Tech,Computer Science,Not Placed
+STU0400,6.51,87,0,5,Good,Intermediate,75,73.2,0,B.Tech,Computer Science,Not Placed
+STU0401,7.06,110,3,1,Average,Advanced,73,92.5,1,B.Com,Information Technology,Not Placed
+STU0402,7.46,106,0,4,Good,Intermediate,69,81.4,0,B.Tech,Computer Science,Not Placed
+STU0403,8.11,103,1,4,Good,Intermediate,73,100.0,0,BCA,Data Science,Not Placed
+STU0404,6.84,124,3,5,Average,Intermediate,64,82.5,0,MCA,Data Science,Placed
+STU0405,7.8,98,3,1,Excellent,Intermediate,71,72.7,1,B.Sc,Information Technology,Placed
+STU0406,6.97,130,0,1,Poor,Advanced,54,94.3,0,B.Tech,Information Technology,Not Placed
+STU0407,7.13,102,0,3,Good,Intermediate,71,88.3,1,B.Tech,Information Technology,Placed
+STU0408,8.12,90,0,3,Good,Advanced,75,89.3,0,B.Sc,Computer Science,Not Placed
+STU0409,5.16,106,0,2,Poor,Advanced,55,93.9,3,B.Sc,Information Technology,Not Placed
+STU0410,5.89,92,0,4,Good,Advanced,66,75.5,1,B.Tech,Computer Science,Not Placed
+STU0411,5.69,96,1,4,Good,Beginner,56,80.7,0,B.Sc,Computer Science,Not Placed
+STU0412,4.8,110,3,1,Poor,Advanced,57,80.3,0,B.Sc,Electronics,Not Placed
+STU0413,6.54,112,1,4,Good,Beginner,48,69.1,0,B.Tech,Computer Science,Not Placed
+STU0414,8.04,98,1,1,Average,Intermediate,84,79.4,0,BCA,Computer Science,Placed
+STU0415,6.95,117,0,2,Good,Advanced,81,95.4,0,B.Tech,Electronics,Placed
+STU0416,7.46,119,2,0,Poor,Intermediate,73,84.4,2,B.Tech,Information Technology,Placed
+STU0417,8.39,122,1,2,Excellent,Intermediate,95,68.5,1,B.Com,Computer Science,Not Placed
+STU0418,8.64,111,2,5,Excellent,Intermediate,62,66.4,0,B.Tech,Computer Science,Placed
+STU0419,7.18,121,3,2,Average,Advanced,100,98.6,1,BCA,Computer Science,Not Placed
+STU0420,8.67,82,1,4,Average,Advanced,62,81.1,0,B.Tech,Computer Science,Placed
+STU0421,7.35,101,0,0,Good,Intermediate,69,75.5,3,B.Tech,Commerce,Not Placed
+STU0422,6.37,95,0,3,Good,Advanced,59,79.3,0,MCA,Data Science,Placed
+STU0423,6.63,106,1,2,Average,Intermediate,71,67.2,1,B.Tech,Information Technology,Not Placed
+STU0424,5.7,98,3,4,Average,Beginner,78,96.2,1,B.Tech,Information Technology,Placed
+STU0425,6.32,103,1,5,Poor,Intermediate,63,78.1,0,MCA,Mechanical,Not Placed
+STU0426,6.87,128,2,3,Excellent,Advanced,92,95.7,0,BCA,Mechanical,Not Placed
+STU0427,8.09,103,1,0,Average,Intermediate,69,82.5,0,BCA,Computer Science,Not Placed
+STU0428,9.06,110,0,2,Excellent,Intermediate,69,96.3,2,B.Tech,Computer Science,Placed
+STU0429,5.8,102,1,0,Good,Beginner,51,84.6,0,B.Tech,Information Technology,Placed
+STU0430,7.66,106,2,2,Excellent,Advanced,71,90.5,1,BCA,Electronics,Placed
+STU0431,6.16,105,2,0,Poor,Intermediate,63,89.2,1,B.Tech,Computer Science,Not Placed
+STU0432,7.75,110,1,3,Poor,Intermediate,56,88.2,2,B.Tech,Information Technology,Not Placed
+STU0433,7.11,119,0,1,Excellent,Advanced,53,85.5,0,BCA,Information Technology,Placed
+STU0434,5.33,125,2,1,Excellent,Beginner,100,79.7,0,B.Tech,Computer Science,Not Placed
+STU0435,8.22,109,0,0,Average,Intermediate,61,100.0,1,B.Tech,Information Technology,Not Placed
+STU0436,6.61,112,3,5,Average,Intermediate,43,72.9,0,B.Tech,Mechanical,Placed
+STU0437,6.69,91,0,5,Average,Advanced,55,82.0,2,B.Sc,Electronics,Not Placed
+STU0438,6.13,104,0,4,Average,Intermediate,64,82.1,0,BCA,Computer Science,Placed
+STU0439,6.56,116,1,0,Average,Intermediate,73,86.0,0,B.Com,Computer Science,Placed
+STU0440,7.7,115,1,2,Excellent,Beginner,73,77.7,2,B.Tech,Commerce,Placed
+STU0441,7.05,108,1,5,Average,Advanced,75,85.1,0,B.Tech,Information Technology,Placed
+STU0442,7.6,116,1,3,Good,Advanced,55,80.3,0,B.Sc,Computer Science,Placed
+STU0443,7.63,111,3,0,Poor,Beginner,70,66.2,0,B.Tech,Computer Science,Placed
+STU0444,8.64,119,1,0,Poor,Intermediate,52,82.1,0,B.Sc,Commerce,Placed
+STU0445,6.89,108,1,1,Good,Advanced,56,71.0,2,MCA,Mechanical,Not Placed
+STU0446,5.7,101,1,5,Average,Beginner,51,64.7,0,B.Sc,Data Science,Not Placed
+STU0447,8.37,109,0,1,Good,Intermediate,47,83.4,0,B.Tech,Electronics,Not Placed
+STU0448,6.9,70,1,5,Poor,Intermediate,81,86.9,0,MCA,Information Technology,Not Placed
+STU0449,8.42,110,0,4,Excellent,Intermediate,75,87.3,3,B.Tech,Information Technology,Not Placed
+STU0450,7.65,70,1,5,Good,Intermediate,80,87.7,0,MCA,Computer Science,Placed
+STU0451,7.11,84,0,4,Excellent,Intermediate,66,62.7,3,B.Sc,Mechanical,Not Placed
+STU0452,7.62,110,3,1,Average,Beginner,77,68.4,2,B.Sc,Electronics,Placed
+STU0453,9.3,111,1,4,Average,Intermediate,39,100.0,0,MCA,Computer Science,Not Placed
+STU0454,9.43,91,2,1,Average,Advanced,78,71.5,2,B.Sc,Data Science,Placed
+STU0455,7.32,96,1,1,Good,Intermediate,68,88.1,1,B.Sc,Information Technology,Not Placed
+STU0456,7.42,121,0,1,Average,Beginner,74,75.1,0,B.Tech,Computer Science,Not Placed
+STU0457,8.38,99,2,0,Poor,Advanced,71,82.8,0,BCA,Information Technology,Placed
+STU0458,6.36,132,1,0,Average,Beginner,50,75.7,2,B.Sc,Data Science,Not Placed
+STU0459,7.6,105,2,1,Average,Advanced,43,87.6,1,B.Tech,Data Science,Not Placed
+STU0460,7.22,110,1,0,Average,Intermediate,54,83.4,1,BCA,Electronics,Not Placed
+STU0461,7.58,124,1,2,Average,Advanced,73,77.5,3,BCA,Data Science,Placed
+STU0462,6.37,107,2,0,Average,Intermediate,75,71.5,0,B.Tech,Data Science,Placed
+STU0463,5.58,93,1,0,Good,Beginner,44,84.7,2,B.Tech,Commerce,Not Placed
+STU0464,5.07,104,1,5,Average,Intermediate,50,69.9,2,B.Sc,Commerce,Not Placed
+STU0465,6.08,105,2,0,Average,Beginner,54,86.3,0,B.Tech,Information Technology,Not Placed
+STU0466,6.77,89,2,0,Good,Intermediate,60,100.0,0,B.Tech,Mechanical,Not Placed
+STU0467,6.94,102,3,0,Good,Advanced,45,95.5,0,B.Sc,Electronics,Not Placed
+STU0468,9.28,96,1,0,Average,Advanced,44,89.2,2,B.Tech,Mechanical,Not Placed
+STU0469,8.41,116,1,3,Good,Beginner,53,81.1,0,B.Tech,Computer Science,Placed
+STU0470,6.24,105,2,4,Excellent,Advanced,66,62.6,1,BCA,Mechanical,Not Placed
+STU0471,7.62,102,1,4,Good,Advanced,47,68.8,0,B.Tech,Data Science,Not Placed
+STU0472,6.82,104,2,3,Excellent,Advanced,63,94.8,0,MCA,Information Technology,Not Placed
+STU0473,6.95,108,1,0,Good,Intermediate,81,74.1,1,MCA,Data Science,Not Placed
+STU0474,7.44,112,0,4,Poor,Intermediate,45,75.0,0,B.Sc,Information Technology,Placed
+STU0475,7.9,93,2,0,Average,Intermediate,62,80.3,2,MCA,Computer Science,Not Placed
+STU0476,6.89,93,0,3,Good,Intermediate,80,71.4,0,B.Com,Computer Science,Placed
+STU0477,8.37,118,0,2,Excellent,Advanced,59,69.7,2,B.Tech,Commerce,Placed
+STU0478,6.05,100,1,5,Average,Beginner,56,81.5,0,BCA,Electronics,Placed
+STU0479,7.26,88,2,1,Poor,Intermediate,82,73.1,3,B.Tech,Information Technology,Not Placed
+STU0480,9.98,110,2,3,Good,Beginner,60,74.6,1,BCA,Electronics,Placed
+STU0481,7.48,111,0,2,Average,Advanced,82,74.2,0,B.Sc,Information Technology,Placed
+STU0482,8.75,87,0,3,Good,Intermediate,71,87.2,0,B.Tech,Information Technology,Placed
+STU0483,7.35,108,3,5,Good,Intermediate,60,79.7,0,B.Tech,Data Science,Placed
+STU0484,7.86,114,0,4,Good,Advanced,72,80.2,1,MCA,Mechanical,Not Placed
+STU0485,7.19,109,0,2,Excellent,Advanced,70,88.0,2,B.Tech,Commerce,Not Placed
+STU0486,7.07,113,0,2,Good,Beginner,80,80.6,0,B.Tech,Electronics,Not Placed
+STU0487,6.43,88,1,4,Good,Advanced,57,79.2,0,B.Tech,Data Science,Not Placed
+STU0488,7.7,109,2,2,Good,Advanced,66,86.7,1,B.Sc,Computer Science,Not Placed
+STU0489,6.36,101,2,1,Good,Beginner,64,88.7,0,B.Com,Computer Science,Not Placed
+STU0490,7.95,99,2,2,Excellent,Advanced,76,80.5,1,BCA,Computer Science,Placed
+STU0491,8.39,115,0,0,Poor,Intermediate,50,82.8,0,B.Sc,Electronics,Not Placed
+STU0492,7.63,123,1,1,Good,Intermediate,80,74.2,1,B.Tech,Electronics,Not Placed
+STU0493,6.95,127,1,2,Average,Intermediate,72,73.4,3,B.Tech,Mechanical,Not Placed
+STU0494,7.73,121,0,4,Excellent,Intermediate,45,89.7,0,B.Sc,Information Technology,Not Placed
+STU0495,6.93,104,0,4,Good,Beginner,83,86.4,0,B.Com,Computer Science,Not Placed
+STU0496,8.23,109,1,1,Average,Beginner,99,86.6,0,BCA,Mechanical,Placed
+STU0497,5.33,114,0,2,Average,Beginner,80,84.8,1,B.Tech,Data Science,Not Placed
+STU0498,6.9,106,1,0,Average,Intermediate,86,82.5,0,B.Sc,Information Technology,Placed
+STU0499,5.16,107,2,4,Good,Intermediate,66,89.0,2,B.Sc,Computer Science,Not Placed
+STU0500,5.68,115,0,1,Average,Intermediate,40,91.4,1,B.Sc,Information Technology,Not Placed
